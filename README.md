@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![xai-cookbook — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # xAI Cookbooks
 
 A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs for practical, powerful applications.
@@ -75,3 +79,18 @@ Want to add a notebook? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. K
 - Test it runs end-to-end.
 - If adding large files (e.g., images, JSON), update `.gitattributes` for Git LFS.
 - Submit a PR!
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有结果展示
+
+![上游个性化营销示例保存的 AI 生成产品情境图；它是图像生成样例，不是实物拍摄或性能评估。](assets/readme/result.jpg)
+
+上游个性化营销示例保存的 AI 生成产品情境图；它是图像生成样例，不是实物拍摄或性能评估。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/xai-cookbook/blob/main/examples/hyper_personalized_marketing/generated_images/generated_image_2d5b4.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
